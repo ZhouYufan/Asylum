@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 520bf1d4b018046dc85063a13a79d99a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Ceiling
+    100002: Floor
+    100004: //RootNode
+    100006: Brick Walls
+    100008: Wall Trim
+    100010: iNvisible Objects
+    100012: Lower Wall Paint
+    100014: Upper Wall Paint
+    100016: Lights
+    100018: Air Duct
+    100020: Electrical Boxes
+    100022: Electrical Pipes
+    100024: Texture Sheet 1
+    100026: Light Fixtures 2
+    100028: Light Fixtures 3
+    100030: Handrails
+    100032: Sprinkler
+    100034: Water Pipes
+    100036: Sprinkler 1
+    100038: Sprinkler 2
+    100040: Sprinkler 3
+    100042: Architectural
+    100044: Electrical
+    100046: Mechanical
+    100048: Static Props
+    100050: Water Pipes 1
+    100052: Plumbing
+    100054: Water Pipes 2
+    100056: Water Pipes 3
+    100058: Water Pipes 4
+    100060: Gas Tank
+    100062: Wall Trim 1
+    100064: Wall Trim 2
+    100066: Wall Trim 3
+    100068: Electrical Pipes 1
+    100070: Electrical Pipes 2
+    100072: Electrical Pipes 3
+    100074: Electrical Pipes 4
+    100076: Electrical Pipes 5
+    100078: Gas Tank 1
+    100080: Gas Pipes
+    100082: Other - Delete at Render
+    100084: Storage Shelves
+    100086: Storage Shelves 1
+    100088: Urban Props
+    100090: Wood CrateB
+    100092: Plastic Barrel
+    100094: Wood CrateB 1
+    100096: wood_pallet
+    100098: Storage Shelves 2
+    100100: Storage Shelves 3
+    100102: Cardboard Box 1
+    100104: Storage Shelves 4
+    100106: Light Fixtures 1
+    100108: Guardrail
+    100110: Railing
+    100112: Dynamic Props
+    100114: Emergency Light
+    100116: Rotating
+    400000: Ceiling
+    400002: Floor
+    400004: //RootNode
+    400006: Brick Walls
+    400008: Wall Trim
+    400010: iNvisible Objects
+    400012: Lower Wall Paint
+    400014: Upper Wall Paint
+    400016: Lights
+    400018: Air Duct
+    400020: Electrical Boxes
+    400022: Electrical Pipes
+    400024: Texture Sheet 1
+    400026: Light Fixtures 2
+    400028: Light Fixtures 3
+    400030: Handrails
+    400032: Sprinkler
+    400034: Water Pipes
+    400036: Sprinkler 1
+    400038: Sprinkler 2
+    400040: Sprinkler 3
+    400042: Architectural
+    400044: Electrical
+    400046: Mechanical
+    400048: Static Props
+    400050: Water Pipes 1
+    400052: Plumbing
+    400054: Water Pipes 2
+    400056: Water Pipes 3
+    400058: Water Pipes 4
+    400060: Gas Tank
+    400062: Wall Trim 1
+    400064: Wall Trim 2
+    400066: Wall Trim 3
+    400068: Electrical Pipes 1
+    400070: Electrical Pipes 2
+    400072: Electrical Pipes 3
+    400074: Electrical Pipes 4
+    400076: Electrical Pipes 5
+    400078: Gas Tank 1
+    400080: Gas Pipes
+    400082: Other - Delete at Render
+    400084: Storage Shelves
+    400086: Storage Shelves 1
+    400088: Urban Props
+    400090: Wood CrateB
+    400092: Plastic Barrel
+    400094: Wood CrateB 1
+    400096: wood_pallet
+    400098: Storage Shelves 2
+    400100: Storage Shelves 3
+    400102: Cardboard Box 1
+    400104: Storage Shelves 4
+    400106: Light Fixtures 1
+    400108: Guardrail
+    400110: Railing
+    400112: Dynamic Props
+    400114: Emergency Light
+    400116: Rotating
+    2300000: Ceiling
+    2300002: Floor
+    2300004: Brick Walls
+    2300006: Wall Trim
+    2300008: iNvisible Objects
+    2300010: Lower Wall Paint
+    2300012: Upper Wall Paint
+    2300014: Lights
+    2300016: Air Duct
+    2300018: Electrical Boxes
+    2300020: Electrical Pipes
+    2300022: Texture Sheet 1
+    2300024: Light Fixtures 2
+    2300026: Light Fixtures 3
+    2300028: Handrails
+    2300030: Sprinkler
+    2300032: Water Pipes
+    2300034: Sprinkler 1
+    2300036: Sprinkler 2
+    2300038: Sprinkler 3
+    2300040: Water Pipes 1
+    2300042: Water Pipes 2
+    2300044: Water Pipes 3
+    2300046: Water Pipes 4
+    2300048: Gas Tank
+    2300050: Wall Trim 1
+    2300052: Wall Trim 2
+    2300054: Wall Trim 3
+    2300056: Electrical Pipes 1
+    2300058: Electrical Pipes 2
+    2300060: Electrical Pipes 3
+    2300062: Electrical Pipes 4
+    2300064: Electrical Pipes 5
+    2300066: Gas Tank 1
+    2300068: Gas Pipes
+    2300070: Storage Shelves
+    2300072: Storage Shelves 1
+    2300074: Wood CrateB
+    2300076: Plastic Barrel
+    2300078: Wood CrateB 1
+    2300080: wood_pallet
+    2300082: Storage Shelves 2
+    2300084: Storage Shelves 3
+    2300086: Cardboard Box 1
+    2300088: Storage Shelves 4
+    2300090: Light Fixtures 1
+    2300092: Guardrail
+    2300094: Emergency Light
+    2300096: Rotating
+    2800000: __AssetImporterPreview
+    3300000: Ceiling
+    3300002: Floor
+    3300004: Brick Walls
+    3300006: Wall Trim
+    3300008: iNvisible Objects
+    3300010: Lower Wall Paint
+    3300012: Upper Wall Paint
+    3300014: Lights
+    3300016: Air Duct
+    3300018: Electrical Boxes
+    3300020: Electrical Pipes
+    3300022: Texture Sheet 1
+    3300024: Light Fixtures 2
+    3300026: Light Fixtures 3
+    3300028: Handrails
+    3300030: Sprinkler
+    3300032: Water Pipes
+    3300034: Sprinkler 1
+    3300036: Sprinkler 2
+    3300038: Sprinkler 3
+    3300040: Water Pipes 1
+    3300042: Water Pipes 2
+    3300044: Water Pipes 3
+    3300046: Water Pipes 4
+    3300048: Gas Tank
+    3300050: Wall Trim 1
+    3300052: Wall Trim 2
+    3300054: Wall Trim 3
+    3300056: Electrical Pipes 1
+    3300058: Electrical Pipes 2
+    3300060: Electrical Pipes 3
+    3300062: Electrical Pipes 4
+    3300064: Electrical Pipes 5
+    3300066: Gas Tank 1
+    3300068: Gas Pipes
+    3300070: Storage Shelves
+    3300072: Storage Shelves 1
+    3300074: Wood CrateB
+    3300076: Plastic Barrel
+    3300078: Wood CrateB 1
+    3300080: wood_pallet
+    3300082: Storage Shelves 2
+    3300084: Storage Shelves 3
+    3300086: Cardboard Box 1
+    3300088: Storage Shelves 4
+    3300090: Light Fixtures 1
+    3300092: Guardrail
+    3300094: Emergency Light
+    3300096: Rotating
+    4300000: Walls
+    4300002: Floor
+    4300004: Ceiling
+    4300006: Floor - Sub
+    4300008: Wall Trim
+    4300010: iNvisible Objects
+    4300012: Wall Paint (2)
+    4300014: Brick Walls
+    4300016: Wall Paint Grey (2)
+    4300018: Upper Wall Paint
+    4300020: Lower Wall Paint
+    4300022: Lights
+    4300024: Air Duct
+    4300026: Electrical Boxes
+    4300028: Electrical Pipes
+    4300030: Signs
+    4300032: Texture Sheet 1
+    4300034: Lights Fixtures
+    4300036: Mesh
+    4300038: Lights Fixtures 1
+    4300040: Light Fixtures 2
+    4300042: Light Fixtures 3
+    4300044: Sprinkler
+    4300046: Water Pipes
+    4300048: Sprinkler 2
+    4300050: Sprinkler 1
+    4300052: Sprinkler 3
+    4300054: Water Pipes 1
+    4300056: Water Pipes 2
+    4300058: Water Pipes 3
+    4300060: Water Pipes 4
+    4300062: Wall Trim 1
+    4300064: Wall Trim 2
+    4300066: Wall Trim 3
+    4300068: Gas Tank
+    4300070: Electrical Pipes 1
+    4300072: Electrical Pipes 5
+    4300074: Electrical Pipes 4
+    4300076: Electrical Pipes 3
+    4300078: Electrical Pipes 2
+    4300080: Gas Tank 1
+    4300082: Gas Pipes
+    4300084: Storage Shelves
+    4300086: Storage Shelves 1
+    4300088: wood_crate
+    4300090: Wood CrateB
+    4300092: Plastic Barrel
+    4300094: Wood CrateB 1
+    4300096: wood_pallet
+    4300098: Storage Shelves 2
+    4300100: Storage Shelves 3
+    4300102: Cardboard Box 1
+    4300104: Storage Shelves 4
+    4300106: Handrails
+    4300108: Light Fixtures 1
+    4300110: Guardrail
+    4300112: Emergency Light
+    4300114: Rotating
+    6400000: Ceiling
+    6400002: Floor
+    6400004: Brick Walls
+    6400006: Wall Trim
+    6400008: iNvisible Objects
+    6400010: Lower Wall Paint
+    6400012: Upper Wall Paint
+    6400014: Lights
+    6400016: Air Duct
+    6400018: Electrical Boxes
+    6400020: Electrical Pipes
+    6400022: Texture Sheet 1
+    6400024: Light Fixtures 2
+    6400026: Light Fixtures 3
+    6400028: Handrails
+    6400030: Sprinkler
+    6400032: Water Pipes
+    6400034: Sprinkler 1
+    6400036: Sprinkler 2
+    6400038: Sprinkler 3
+    6400040: Water Pipes 1
+    6400042: Water Pipes 2
+    6400044: Water Pipes 3
+    6400046: Water Pipes 4
+    6400048: Gas Tank
+    6400050: Wall Trim 1
+    6400052: Wall Trim 2
+    6400054: Wall Trim 3
+    6400056: Electrical Pipes 1
+    6400058: Electrical Pipes 2
+    6400060: Electrical Pipes 3
+    6400062: Electrical Pipes 4
+    6400064: Electrical Pipes 5
+    6400066: Gas Tank 1
+    6400068: Gas Pipes
+    6400070: Storage Shelves
+    6400072: Storage Shelves 1
+    6400074: Wood CrateB
+    6400076: Plastic Barrel
+    6400078: Wood CrateB 1
+    6400080: wood_pallet
+    6400082: Storage Shelves 2
+    6400084: Storage Shelves 3
+    6400086: Cardboard Box 1
+    6400088: Storage Shelves 4
+    6400090: Light Fixtures 1
+    6400092: Guardrail
+    6400094: Emergency Light
+    6400096: Rotating
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
